@@ -1,0 +1,6 @@
+# GLM-OCR 模型檔案
+# 此模型檔案較大（約 2.7GB），不建議上傳到 GitHub
+# 請手動下載模型並放置於此資料夾
+
+# 下載連結: https://huggingface.co/zai-org/GLM-OCR
+# 下載後請將所有檔案放置於 models/glm-ocr-0.9b/ 資料夾
